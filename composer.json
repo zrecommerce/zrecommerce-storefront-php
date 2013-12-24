@@ -1,0 +1,8 @@
+{
+	"name": "zrecommerce/zrecommerce-storefront-php",
+	"autoload": {
+		"psr-0": {
+			"Zrecommerce\\Storefront": "src"
+		}
+	}
+}
