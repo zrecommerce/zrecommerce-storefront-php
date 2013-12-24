@@ -1,5 +1,11 @@
 {
 	"name": "zrecommerce/zrecommerce-storefront-php",
+	"description": "ZRECommerce store front (eCommerce) application stack that consumes the zrecore-js REST service. This is the PHP implementation.",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"homepage": "http://www.zrecommerce.com",
 	"autoload": {
 		"psr-0": {
 			"Zrecommerce\\Storefront": "src"
